@@ -1,2 +1,2 @@
-user:
-  name: zhangsan1111122
+server:
+  port: 9999
